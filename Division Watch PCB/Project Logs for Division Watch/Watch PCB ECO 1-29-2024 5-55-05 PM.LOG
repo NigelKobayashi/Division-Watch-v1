@@ -1,0 +1,8 @@
+Added Component: Designator=S?(CHERRY-MX-LED-1U)
+Add component (AddParameter): Name = "DeviceName"; Value = "1U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MECHANICAL-KEYBOARD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CHERRY-MX-LED-1U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SWITCH-MOMENTARY-LED"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Watch Member=Component S? Mechanical Keyboard Spacings for Cherry-MX    Cherry-MX w/ LED switch footprints. Each package variant contains a bounding box on the tDocu layer for proper key spacing and a dimensional drawing on the Reference layer to be exported for laser cut mounting plates.   Footprints are off-center so that the origin lies on the lower left corner of the key-spacing. This allows for most common layouts to be easily acheived on a grid spacing of 0.1875" Variants  1U through 1.75U in .25U steps Centered switch cutout in SwitchPlate layer with no stabilizers  2U through 2.75U in .25U steps Centered switch cutout in SwitchPlate layer with Cherry+Costar stabilizer holes  6.25U Common spacebar size Centered switch cutout in SwitchPlate layer with Cherry+Costar stabilizer holes  "Big Ass" Enter ANSI 104 "Big Ass" Enter Key layout  ISO Enter ISO style Enter Key layout

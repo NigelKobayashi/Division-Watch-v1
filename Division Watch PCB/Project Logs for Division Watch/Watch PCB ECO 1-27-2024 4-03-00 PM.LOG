@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=L? NewDesignator=L4
+Change Component Designator: OldDesignator=L? NewDesignator=L5
+Change Component Designator: OldDesignator=L? NewDesignator=L6
+Change Component Designator: OldDesignator=L? NewDesignator=L7
+Change Component Designator: OldDesignator=L? NewDesignator=L8
+Change Component Designator: OldDesignator=L? NewDesignator=L9
+Change Component Designator: OldDesignator=L? NewDesignator=L10
+Change Component Designator: OldDesignator=L? NewDesignator=L11
+Change Component Designator: OldDesignator=L? NewDesignator=L12
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL1_1
+Change Net Name : Old Net Name=NetL?_3 New Net Name=NetL1_3
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=L3-3
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=L4-3
+Added Net: Name=NetL3_1
+Added Member To Class: ClassName=Watch Member=Component L1 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L2 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L3 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L4 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L5 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L6 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L7 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L8 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L9 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L10 WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L12 WS2812B-2020

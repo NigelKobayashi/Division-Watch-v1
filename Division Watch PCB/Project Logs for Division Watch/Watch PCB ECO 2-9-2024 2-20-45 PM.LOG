@@ -1,0 +1,52 @@
+Added Component: Designator=JP?(SMT-JUMPER_2_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_2_NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_2_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_2_NO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT?-2
+Added Pin To Net: NetName=VBAT Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=SW?-G1
+Added Pin To Net: NetName=GND Pin=SW?-G1
+Added Pin To Net: NetName=GND Pin=SW?-G1
+Added Pin To Net: NetName=GND Pin=SW?-G1
+Added Pin To Net: NetName=GND Pin=SW?-G2
+Added Pin To Net: NetName=GND Pin=SW?-G2
+Added Pin To Net: NetName=GND Pin=SW?-G2
+Added Pin To Net: NetName=GND Pin=SW?-G2
+Added Pin To Net: NetName=VBAT Pin=U1-14
+Added Pin To Net: NetName=3V3 Pin=SW?-2
+Added Pin To Net: NetName=3V3 Pin=SW?-2
+Added Pin To Net: NetName=3V3 Pin=SW?-2
+Added Pin To Net: NetName=3V3 Pin=SW?-2
+Added Pin To Net: NetName=3V3 Pin=SW?-B1
+Added Pin To Net: NetName=3V3 Pin=SW?-B1
+Added Pin To Net: NetName=3V3 Pin=SW?-B2
+Added Pin To Net: NetName=3V3 Pin=SW?-B2
+Added Pin To Net: NetName=3V3 Pin=U1-12
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-2
+Added Net: Name=NetBT?_1
+Add Net: Net with name "NetBT?_1" already exists
+Added Pin To Net: NetName=NetSW?_1 Pin=SW?-1
+Added Pin To Net: NetName=NetSW?_1 Pin=U1-5
+Added Net: Name=NetSW?_1
+Add Net: Net with name "NetSW?_1" already exists
+Add Net: Net with name "NetSW?_1" already exists
+Add Net: Net with name "NetSW?_1" already exists
+Added Pin To Net: NetName=NetSW?_A1 Pin=SW?-A1
+Added Pin To Net: NetName=NetSW?_A1 Pin=SW?-A1
+Added Pin To Net: NetName=NetSW?_A1 Pin=SW?-A2
+Added Pin To Net: NetName=NetSW?_A1 Pin=SW?-A2
+Added Pin To Net: NetName=NetSW?_A1 Pin=U1-1
+Added Net: Name=NetSW?_A1
+Added Member To Class: ClassName=Watch Member=Component BT? 79523141
+Added Member To Class: ClassName=Watch Member=Component JP? NO Jumper
+Added Member To Class: ClassName=Watch Member=Component SW? 430186043716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716

@@ -1,0 +1,42 @@
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=L?-3
+Added Net: Name=NetL?_1
+Add Net: Net with name "NetL?_1" already exists
+Add Net: Net with name "NetL?_1" already exists
+Added Pin To Net: NetName=NetL?_3 Pin=L?-3
+Added Pin To Net: NetName=NetL?_3 Pin=U?-2
+Added Net: Name=NetL?_3
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Pin To Net: NetName=VBAT Pin=L?-4
+Added Net: Name=VBAT
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020
+Added Member To Class: ClassName=Watch Member=Component L? WS2812B-2020

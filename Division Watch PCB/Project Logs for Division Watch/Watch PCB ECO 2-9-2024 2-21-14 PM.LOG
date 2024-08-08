@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=BT? NewDesignator=BT2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW4
+Change Component Designator: OldDesignator=SW? NewDesignator=SW5
+Change Component Designator: OldDesignator=SW? NewDesignator=SW6
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT1_2
+Change Net Name : Old Net Name=NetSW?_1 New Net Name=NetSW2_1
+Change Net Name : Old Net Name=NetSW?_A1 New Net Name=NetSW4_A1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=JP1-2
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW1_1 Pin=U1-6
+Added Net: Name=NetSW1_1
+Added Pin To Net: NetName=NetSW3_1 Pin=SW3-1
+Added Pin To Net: NetName=NetSW3_1 Pin=U1-4
+Added Net: Name=NetSW3_1
+Added Pin To Net: NetName=NetSW6_1 Pin=SW6-1
+Added Pin To Net: NetName=NetSW6_1 Pin=U1-2
+Added Net: Name=NetSW6_1
+Added Member To Class: ClassName=Watch Member=Component BT2 79523141
+Added Member To Class: ClassName=Watch Member=Component SW1 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW2 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW3 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW5 430186043716
+Added Member To Class: ClassName=Watch Member=Component SW6 431256083716

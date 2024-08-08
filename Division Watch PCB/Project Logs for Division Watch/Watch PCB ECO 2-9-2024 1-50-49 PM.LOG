@@ -1,0 +1,35 @@
+Added Component: Designator=BT?(79523211)
+Add component (AddParameter): Name = "Battery Type"; Value = "2016,2020,2025,2032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Battery Holders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/79523211?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/79523211?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "79523211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WA-BCMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Added Component: Designator=BT?(79523211)
+Add component (AddParameter): Name = "Battery Type"; Value = "2016,2020,2025,2032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Battery Holders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/79523211?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/79523211?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "79523211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WA-BCMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Watch Member=Component BT? 79523211
+Added Member To Class: ClassName=Watch Member=Component BT? 79523211
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 430186043716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716

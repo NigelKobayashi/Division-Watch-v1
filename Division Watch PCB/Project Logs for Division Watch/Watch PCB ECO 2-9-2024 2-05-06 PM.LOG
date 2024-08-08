@@ -1,0 +1,38 @@
+Change Component Footprint: Designator=BT? Old Footprint=79523211 New Footprint=79523141
+Change Component Footprint: Designator=BT? Old Footprint=79523211 New Footprint=79523141
+Change Component Comment : Designator=BT? Old Comment=79523211 New Comment=79523141
+Change Component Comment : Designator=BT? Old Comment=79523211 New Comment=79523141
+Change component parameters: Designator = "BT?" ("BT?"); Footprint = "79523211"; UniqueID = "\INHXTMKQ" ("\INHXTMKQ")
+Change component parameters (AddParameter): Name = "Battery Type"; Value = "2016,2020,2025,2032"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Battery Holders"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/79523141?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/79523141?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "79523141"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WA-BCMC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BT?" ("BT?"); Footprint = "79523211"; UniqueID = "\QJIOINCN" ("\QJIOINCN")
+Change component parameters (AddParameter): Name = "Battery Type"; Value = "2016,2020,2025,2032"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Battery Holders"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/79523141?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/79523141?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "79523141"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WA-BCMC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Watch Member=Component BT? 79523141
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716
+Added Member To Class: ClassName=Watch Member=Component SW? 430186043716
+Added Member To Class: ClassName=Watch Member=Component SW? 431256083716

@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Personal Projects\Division Watch\Project Outputs for Division Watch\Pick Place\Pick Place for Watch.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/03/24
+Time:       20:19
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"JP1","NO Jumper","BottomLayer","SMT-JUMPER_2_NO_SILK","1134.000","1350.000","0",""
+"BT1","79523141","BottomLayer","79523141","625.000","1625.000","180","WA-BCMC Battery Holder, SMT, battery type 2016,2020,2025,2032"
+"BT2","79523141","BottomLayer","79523141","625.000","400.000","0","WA-BCMC Battery Holder, SMT, battery type 2016,2020,2025,2032"
+"SW4","430186043716","TopLayer","4301x60437x6","138.583","997.047","90","WS-TATV THT Tact Switch 6x6mm, SPST-NO, 12VDC, 50mA, 160g"
+"SW3","431256083716","TopLayer","4312560837x6","-48.443","326.557","315","WS-TATU THT Tact Switch 6x6mm Right Angled Type with ground terminal, SPST-NO, 12VDC, 50mA, 160g"
+"SW6","431256083716","TopLayer","4312560837x6","1303.443","326.557","45","WS-TATU THT Tact Switch 6x6mm Right Angled Type with ground terminal, SPST-NO, 12VDC, 50mA, 160g"
+"SW5","430186043716","TopLayer","4301x60437x6","1125.000","1025.000","270","WS-TATV THT Tact Switch 6x6mm, SPST-NO, 12VDC, 50mA, 160g"
+"SW2","431256083716","TopLayer","4312560837x6","-23.443","1698.443","225","WS-TATU THT Tact Switch 6x6mm Right Angled Type with ground terminal, SPST-NO, 12VDC, 50mA, 160g"
+"SW1","431256083716","TopLayer","4312560837x6","1298.443","1698.443","135","WS-TATU THT Tact Switch 6x6mm Right Angled Type with ground terminal, SPST-NO, 12VDC, 50mA, 160g"
+"U1","102010388","TopLayer","MODULE_102010388","625.000","1000.000","0","Seeeduino XIAO Development Board, Pre-Soldered [Seeed Studio] 102010388 Seeeduino XIAO Development Board, Pre-Soldered"
+"L7","WS2812B-2020","TopLayer","WS2812B-2020","300.000","375.000","150","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L2","WS2812B-2020","TopLayer","WS2812B-2020","1225.000","1375.000","300","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L6","WS2812B-2020","TopLayer","WS2812B-2020","625.000","300.000","180","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L1","WS2812B-2020","TopLayer","WS2812B-2020","978.188","1617.142","330","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L12","WS2812B-2020","TopLayer","WS2812B-2020","625.000","1700.000","0","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L4","WS2812B-2020","TopLayer","WS2812B-2020","1250.000","675.000","240","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L10","WS2812B-2020","TopLayer","WS2812B-2020","25.000","1350.000","60","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L3","WS2812B-2020","TopLayer","WS2812B-2020","1325.591","989.961","270","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L11","WS2812B-2020","TopLayer","WS2812B-2020","252.598","1602.182","30","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L8","WS2812B-2020","TopLayer","WS2812B-2020","25.000","650.000","120","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L9","WS2812B-2020","TopLayer","WS2812B-2020","-75.591","1014.961","90","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+"L5","WS2812B-2020","TopLayer","WS2812B-2020","952.598","377.182","210","Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
